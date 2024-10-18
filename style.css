@@ -1,0 +1,16 @@
+html {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+}
+
+p {
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+  font-size: 20px;
+}
